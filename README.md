@@ -1,2 +1,3 @@
 # Seatmanagement BUU Project
- My Graduate Project at Buu
+# My Graduate Project Software Engineering at Faculty of Informatics at Burapha Unversity
+# +++++++++++ Used for education ++++++++++++
